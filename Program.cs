@@ -20,7 +20,7 @@ namespace InClassDay4
 
             {
                 Console.WriteLine("The year was 2040...Donald Trump and Kim Jong Un could no longer manage thier insecurites" +
-                "...they had to see who really had the biggest nuclear bomb. On April 1st they vowed to put an end to their fued" +
+                "...they had to see who really had the biggest nuclear bomb. On the tragic day of April 1st they vowed to put an end to their fued" +
                 "they synched their watches...at 12:00pm CST they set them off...and life as we knew it changed forever" +
                 "98% of the world's population was immediately wiped out...America is now a barren wasteland.");
             }
@@ -40,7 +40,7 @@ namespace InClassDay4
             }
             else
             {
-                Console.WriteLine("Good luck surviving on your own...");
+                Console.WriteLine("Good luck surviving on your own...blahhhhhhhh");
             }
         }
     }
