@@ -9,3 +9,14 @@
 /Users/Nathan/Projects/12345/obj/Debug/netcoreapp2.1/NathanTextAdventure.AssemblyInfo.cs
 /Users/Nathan/Projects/12345/obj/Debug/netcoreapp2.1/NathanTextAdventure.dll
 /Users/Nathan/Projects/12345/obj/Debug/netcoreapp2.1/NathanTextAdventure.pdb
+/Users/Nathan/Projects/TextAdventure-NathanBroom/obj/Debug/netcoreapp2.1/NathanTextAdventure.csprojAssemblyReference.cache
+/Users/Nathan/Projects/TextAdventure-NathanBroom/obj/Debug/netcoreapp2.1/NathanTextAdventure.csproj.CoreCompileInputs.cache
+/Users/Nathan/Projects/TextAdventure-NathanBroom/obj/Debug/netcoreapp2.1/NathanTextAdventure.AssemblyInfoInputs.cache
+/Users/Nathan/Projects/TextAdventure-NathanBroom/obj/Debug/netcoreapp2.1/NathanTextAdventure.AssemblyInfo.cs
+/Users/Nathan/Projects/TextAdventure-NathanBroom/obj/Debug/netcoreapp2.1/NathanTextAdventure.dll
+/Users/Nathan/Projects/TextAdventure-NathanBroom/obj/Debug/netcoreapp2.1/NathanTextAdventure.pdb
+/Users/Nathan/Projects/TextAdventure-NathanBroom/bin/Debug/netcoreapp2.1/NathanTextAdventure.deps.json
+/Users/Nathan/Projects/TextAdventure-NathanBroom/bin/Debug/netcoreapp2.1/NathanTextAdventure.runtimeconfig.json
+/Users/Nathan/Projects/TextAdventure-NathanBroom/bin/Debug/netcoreapp2.1/NathanTextAdventure.runtimeconfig.dev.json
+/Users/Nathan/Projects/TextAdventure-NathanBroom/bin/Debug/netcoreapp2.1/NathanTextAdventure.dll
+/Users/Nathan/Projects/TextAdventure-NathanBroom/bin/Debug/netcoreapp2.1/NathanTextAdventure.pdb

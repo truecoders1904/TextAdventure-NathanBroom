@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Nathan/Projects/12345/NathanTextAdventure.csproj",
+      "projectUniqueName": "/Users/Nathan/Projects/TextAdventure-NathanBroom/NathanTextAdventure.csproj",
       "projectName": "NathanTextAdventure",
-      "projectPath": "/Users/Nathan/Projects/12345/NathanTextAdventure.csproj",
+      "projectPath": "/Users/Nathan/Projects/TextAdventure-NathanBroom/NathanTextAdventure.csproj",
       "packagesPath": "/Users/Nathan/.nuget/packages/",
-      "outputPath": "/Users/Nathan/Projects/12345/obj/",
+      "outputPath": "/Users/Nathan/Projects/TextAdventure-NathanBroom/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
