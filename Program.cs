@@ -6,8 +6,12 @@ namespace InClassDay4
 
     {
         static void Main(string[] args)
-        {
+        {   
+            //Game Title 
             Console.WriteLine("...2040...");
+            Console.WriteLine("Press 'Enter' to continue.");
+            Console.ReadLine();
+            Console.Clear();
 
             Console.WriteLine("Hey there stranger. My name is Chip. Chip Elmer. Whats your name?");
             string characterName = Console.ReadLine();
@@ -30,6 +34,7 @@ namespace InClassDay4
             }
 
 
+
             Console.WriteLine("Would you like to join me as we try to survive?");
 
             string response2 = Console.ReadLine();
@@ -40,7 +45,7 @@ namespace InClassDay4
             }
             else
             {
-                Console.WriteLine("Good luck surviving on your own...blahhhhhhhh");
+                Console.WriteLine("Good luck surviving on your own...");
             }
         }
     }
