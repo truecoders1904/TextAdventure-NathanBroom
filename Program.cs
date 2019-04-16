@@ -98,7 +98,26 @@ namespace InClassDay4
                     {
                         Console.WriteLine("(response not recognized)");
                     }
-                } while (intersectionChoice.ToLower() != "left"); 
+                } while (intersectionChoice.ToLower() != "left");
+
+                string response2 = GetUserResponse("Do you want to follow him?");
+                if (response2.ToLower() == "yes")
+                {
+                    Console.WriteLine("You follow him from a distance while trying to remain discrete." +
+                    	"As you get closer you see him enter a building.");
+                   
+                     string response3 = GetUserResponse("Do you want to risk it and enter after him?");
+                    if (response3.ToLower() == "yes")
+                    {
+                        Console.WriteLine("Surprise it's your birthday! Congrats you win!!!");
+                    }
+
+                }
+                else
+                {
+                    Console.WriteLine("You remain alone and die slowly and painfully...");
+                }
+                Console.WriteLine("");
 
             }
             else
